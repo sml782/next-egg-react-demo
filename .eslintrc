@@ -1,0 +1,23 @@
+{
+  "extends": "eslint-config-egg",
+  "plugins": [
+    "react"
+  ],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    },
+    "ecmaVersion": 2017
+  },
+  "rules": {
+    "strict": 0
+  },
+  "globals": {
+    "app": true,
+    "request": true,
+    "mm": true,
+    "mock": true,
+    "assert": true
+  }
+}

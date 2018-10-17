@@ -1,0 +1,289 @@
+{
+  "keys": "/Users/jimi/Documents/s/next/test-egg-1/config/config.default.js",
+  "middleware": "/Users/jimi/Documents/s/next/test-egg-1/config/config.default.js",
+  "nextView": "/Users/jimi/Documents/s/next/test-egg-1/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "key": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "useSession": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "cookieName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "sessionName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "headerName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "bodyName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "queryName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.local.js",
+      "maxAge": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "value": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "policy": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+      "checkAddress": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "dirs": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "queryField": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+      "development": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-schedule@3.4.0@egg-schedule/config/config.default.js",
+      "file": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-schedule@3.4.0@egg-schedule/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "fields": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "files": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "fastReady": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "overrideDefault": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "dir": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "dynamic": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "preload": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "buffer": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "maxFiles": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "cache": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "mapping": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js"
+  },
+  "env": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "name": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "proxy": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "version": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "description": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "private": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "egg-next-view": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "egg-scripts": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "marked": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "next": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "react": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "react-dom": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "react-highlight": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "autod-egg": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "egg-bin": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "egg-ci": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "egg-mock": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "eslint": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "eslint-config-egg": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    },
+    "scripts": {
+      "next": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "next-build": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "start": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "stop": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "dev": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "prod": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "debug": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "test": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "test-local": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "cov": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "lint": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "ci": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "autod": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "url": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    },
+    "author": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "license": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "HOME": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "rundir": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "notFound": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "sitefile": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "middlewares": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "httpClient": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "encoding": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "formLimit": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "strict": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "depth": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "encoding": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "env": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "level": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "consoleLevel": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "outputJSON": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "buffer": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "appLogName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "coreLogName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "agentLogName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "errorLogName": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "maxSockets": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "maxSockets": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "logging": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "port": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+      "hostname": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/config.default.js"
+}
