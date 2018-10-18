@@ -3,6 +3,7 @@
     <component name="JavaScriptLibraryMappings">
         <excludedPredefinedLibrary name="test/node_modules"/>
         <excludedPredefinedLibrary name="test-egg-1/node_modules"/>
+        <excludedPredefinedLibrary name="next-egg-react-demo/node_modules"/>
         <includedPredefinedLibrary name="ECMAScript 6"/>
         <includedPredefinedLibrary name="Node.js Core"/>
         <file url="PROJECT" libraries="{node-DefinitelyTyped,mocha-DefinitelyTyped}"/>

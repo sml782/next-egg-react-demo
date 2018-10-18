@@ -86,26 +86,26 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-onerror@2.1.0@egg-onerror/lib/onerror_page.mustache"
+      "templatePath": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-onerror@2.1.0@egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
       "dirs": [
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-session@3.1.0@egg-session/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-onerror@2.1.0@egg-onerror/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-i18n@2.0.0@egg-i18n/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-watcher@3.1.0@egg-watcher/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-schedule@3.4.0@egg-schedule/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-development@2.4.1@egg-development/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-static@2.1.1@egg-static/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-view@2.1.0@egg-view/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-next-view@0.1.1@egg-next-view/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/locales",
-        "/Users/jimi/Documents/s/next/test-egg-1/config/locales"
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-session@3.1.0@egg-session/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-security@2.4.0@egg-security/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-onerror@2.1.0@egg-onerror/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-i18n@2.0.0@egg-i18n/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-watcher@3.1.0@egg-watcher/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-schedule@3.4.0@egg-schedule/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-multipart@2.2.1@egg-multipart/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-development@2.4.1@egg-development/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-static@2.1.1@egg-static/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-view@2.1.0@egg-view/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-next-view@0.1.1@egg-next-view/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/locales",
+        "/Users/jimi/Documents/s/next/next-egg-react-demo/config/locales"
       ],
       "queryField": "locale",
       "cookieField": "locale",
@@ -115,14 +115,14 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/event-sources/default",
-        "development": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/event-sources/development"
+        "default": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/event-sources/default",
+        "development": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
       "scheduleLogger": {
         "consoleLevel": "NONE",
-        "file": "/Users/jimi/Documents/s/next/test-egg-1/logs/test/egg-schedule.log"
+        "file": "/Users/jimi/Documents/s/next/next-egg-react-demo/logs/next-egg-react-demo/egg-schedule.log"
       }
     },
     "multipart": {
@@ -136,7 +136,7 @@
       "files": 10,
       "fileExtensions": [],
       "whitelist": null,
-      "tmpdir": "/var/folders/z5/4x_71tcx4xz85kwcxk40d9_r0000gn/T/egg-multipart-tmp/test",
+      "tmpdir": "/var/folders/z5/4x_71tcx4xz85kwcxk40d9_r0000gn/T/egg-multipart-tmp/next-egg-react-demo",
       "cleanSchedule": {
         "cron": "0 30 4 * * *"
       }
@@ -159,7 +159,7 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/jimi/Documents/s/next/test-egg-1/app/public",
+      "dir": "/Users/jimi/Documents/s/next/next-egg-react-demo/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
@@ -167,7 +167,7 @@
       "files": "<LRU>"
     },
     "view": {
-      "root": "/Users/jimi/Documents/s/next/test-egg-1/app/view",
+      "root": "/Users/jimi/Documents/s/next/next-egg-react-demo/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -180,23 +180,31 @@
       "quiet": false
     },
     "env": "local",
-    "name": "test",
-    "keys": "<String len: 22>",
+    "name": "next-egg-react-demo",
+    "keys": "<String len: 37>",
     "proxy": false,
     "protocolHeaders": "x-forwarded-proto",
     "ipHeaders": "x-forwarded-for",
     "hostHeaders": "",
     "pkg": {
-      "name": "test",
+      "name": "next-egg-react-demo",
       "version": "1.0.0",
-      "description": "",
+      "description": "基于next.js@7结合egg的实战",
       "private": true,
       "dependencies": {
+        "@babel/preset-env": "^7.1.0",
+        "@zeit/next-css": "^1.0.1",
+        "@zeit/next-less": "^1.0.1",
+        "@zeit/next-sass": "^1.0.1",
+        "@zeit/next-typescript": "^1.1.1",
+        "antd": "^3.10.1",
         "egg": "^2.12.0",
-        "egg-next-view": "^0.1.0",
+        "egg-next-view": "^0.1.1",
         "egg-scripts": "^2.10.0",
+        "less": "^3.8.1",
         "marked": "^0.5.1",
         "next": "^7.0.2",
+        "node-sass": "^4.9.4",
         "react": "^16.5.2",
         "react-dom": "^16.5.2",
         "react-highlight": "^0.12.0"
@@ -204,10 +212,12 @@
       "devDependencies": {
         "autod": "^3.0.1",
         "autod-egg": "^1.1.0",
+        "babel-plugin-import": "^1.10.0",
         "egg-bin": "^4.9.0",
         "egg-ci": "^1.9.2",
         "egg-mock": "^3.20.1",
         "eslint": "^5.7.0",
+        "eslint-config-airbnb": "^17.1.0",
         "eslint-config-egg": "^7.1.0",
         "webstorm-disable-index": "^1.2.0"
       },
@@ -234,14 +244,14 @@
       },
       "repository": {
         "type": "git",
-        "url": ""
+        "url": "git+https://github.com/sml782/next-egg-react-demo.git"
       },
-      "author": "",
+      "author": "sml782",
       "license": "MIT"
     },
-    "baseDir": "/Users/jimi/Documents/s/next/test-egg-1/",
+    "baseDir": "/Users/jimi/Documents/s/next/next-egg-react-demo/",
     "HOME": "/Users/jimi",
-    "rundir": "/Users/jimi/Documents/s/next/test-egg-1/run",
+    "rundir": "/Users/jimi/Documents/s/next/next-egg-react-demo/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -272,7 +282,7 @@
       "returnRawBody": true
     },
     "logger": {
-      "dir": "/Users/jimi/Documents/s/next/test-egg-1/logs/test",
+      "dir": "/Users/jimi/Documents/s/next/next-egg-react-demo/logs/next-egg-react-demo",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -280,7 +290,7 @@
       "disableConsoleAfterReady": false,
       "outputJSON": false,
       "buffer": true,
-      "appLogName": "test-web.log",
+      "appLogName": "next-egg-react-demo-web.log",
       "coreLogName": "egg-web.log",
       "agentLogName": "egg-agent.log",
       "errorLogName": "common-error.log",
@@ -365,8 +375,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-session@3.1.0@egg-session",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-session@3.1.0@egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -378,8 +388,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-security@2.4.0@egg-security",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-security@2.4.0@egg-security",
       "version": "2.4.0"
     },
     "jsonp": {
@@ -391,8 +401,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-jsonp@2.0.0@egg-jsonp",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-jsonp@2.0.0@egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -404,8 +414,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-onerror@2.1.0@egg-onerror",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-onerror@2.1.0@egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -415,8 +425,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-i18n@2.0.0@egg-i18n",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-i18n@2.0.0@egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -426,8 +436,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-watcher@3.1.0@egg-watcher",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-watcher@3.1.0@egg-watcher",
       "version": "3.1.0"
     },
     "schedule": {
@@ -437,8 +447,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-schedule@3.4.0@egg-schedule",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-schedule@3.4.0@egg-schedule",
       "version": "3.4.0"
     },
     "multipart": {
@@ -450,8 +460,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-multipart@2.2.1@egg-multipart",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-multipart@2.2.1@egg-multipart",
       "version": "2.2.1"
     },
     "development": {
@@ -465,8 +475,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-development@2.4.1@egg-development",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-development@2.4.1@egg-development",
       "version": "2.4.1"
     },
     "logrotator": {
@@ -478,8 +488,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-logrotator@3.0.3@egg-logrotator",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-logrotator@3.0.3@egg-logrotator",
       "version": "3.0.3"
     },
     "static": {
@@ -489,8 +499,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-static@2.1.1@egg-static",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-static@2.1.1@egg-static",
       "version": "2.1.1"
     },
     "view": {
@@ -500,8 +510,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg@2.12.0@egg/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-view@2.1.0@egg-view",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-view@2.1.0@egg-view",
       "version": "2.1.0"
     },
     "nextView": {
@@ -511,8 +521,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/jimi/Documents/s/next/test-egg-1/config/plugin.js",
-      "path": "/Users/jimi/Documents/s/next/test-egg-1/node_modules/_egg-next-view@0.1.1@egg-next-view",
+      "from": "/Users/jimi/Documents/s/next/next-egg-react-demo/config/plugin.js",
+      "path": "/Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-next-view@0.1.1@egg-next-view",
       "version": "0.1.1"
     }
   }

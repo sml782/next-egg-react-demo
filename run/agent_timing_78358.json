@@ -1,0 +1,298 @@
+[
+  {
+    "name": "Application Start",
+    "start": 1539845762989,
+    "end": 1539845763162,
+    "duration": 173,
+    "pid": 78358,
+    "index": 0
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1539845762994,
+    "end": 1539845763004,
+    "duration": 10,
+    "pid": 78358,
+    "index": 1
+  },
+  {
+    "name": "Load Config",
+    "start": 1539845763004,
+    "end": 1539845763018,
+    "duration": 14,
+    "pid": 78358,
+    "index": 2
+  },
+  {
+    "name": "Require(0) /Users/jimi/Documents/s/next/next-egg-react-demo/config/config.default.js",
+    "start": 1539845763004,
+    "end": 1539845763005,
+    "duration": 1,
+    "pid": 78358,
+    "index": 3
+  },
+  {
+    "name": "Require(1) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js",
+    "start": 1539845763006,
+    "end": 1539845763006,
+    "duration": 0,
+    "pid": 78358,
+    "index": 4
+  },
+  {
+    "name": "Require(2) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-security@2.4.0@egg-security/config/config.default.js",
+    "start": 1539845763006,
+    "end": 1539845763006,
+    "duration": 0,
+    "pid": 78358,
+    "index": 5
+  },
+  {
+    "name": "Require(3) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "start": 1539845763007,
+    "end": 1539845763007,
+    "duration": 0,
+    "pid": 78358,
+    "index": 6
+  },
+  {
+    "name": "Require(4) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "start": 1539845763007,
+    "end": 1539845763008,
+    "duration": 1,
+    "pid": 78358,
+    "index": 7
+  },
+  {
+    "name": "Require(5) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
+    "start": 1539845763008,
+    "end": 1539845763008,
+    "duration": 0,
+    "pid": 78358,
+    "index": 8
+  },
+  {
+    "name": "Require(6) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
+    "start": 1539845763008,
+    "end": 1539845763009,
+    "duration": 1,
+    "pid": 78358,
+    "index": 9
+  },
+  {
+    "name": "Require(7) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-schedule@3.4.0@egg-schedule/config/config.default.js",
+    "start": 1539845763009,
+    "end": 1539845763009,
+    "duration": 0,
+    "pid": 78358,
+    "index": 10
+  },
+  {
+    "name": "Require(8) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-multipart@2.2.1@egg-multipart/config/config.default.js",
+    "start": 1539845763009,
+    "end": 1539845763010,
+    "duration": 1,
+    "pid": 78358,
+    "index": 11
+  },
+  {
+    "name": "Require(9) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-development@2.4.1@egg-development/config/config.default.js",
+    "start": 1539845763010,
+    "end": 1539845763010,
+    "duration": 0,
+    "pid": 78358,
+    "index": 12
+  },
+  {
+    "name": "Require(10) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-logrotator@3.0.3@egg-logrotator/config/config.default.js",
+    "start": 1539845763011,
+    "end": 1539845763011,
+    "duration": 0,
+    "pid": 78358,
+    "index": 13
+  },
+  {
+    "name": "Require(11) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-static@2.1.1@egg-static/config/config.default.js",
+    "start": 1539845763012,
+    "end": 1539845763012,
+    "duration": 0,
+    "pid": 78358,
+    "index": 14
+  },
+  {
+    "name": "Require(12) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-view@2.1.0@egg-view/config/config.default.js",
+    "start": 1539845763012,
+    "end": 1539845763013,
+    "duration": 1,
+    "pid": 78358,
+    "index": 15
+  },
+  {
+    "name": "Require(13) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-next-view@0.1.1@egg-next-view/config/config.default.js",
+    "start": 1539845763013,
+    "end": 1539845763013,
+    "duration": 0,
+    "pid": 78358,
+    "index": 16
+  },
+  {
+    "name": "Require(14) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/config.default.js",
+    "start": 1539845763013,
+    "end": 1539845763014,
+    "duration": 1,
+    "pid": 78358,
+    "index": 17
+  },
+  {
+    "name": "Require(15) /Users/jimi/Documents/s/next/next-egg-react-demo/config/config.default.js",
+    "start": 1539845763015,
+    "end": 1539845763015,
+    "duration": 0,
+    "pid": 78358,
+    "index": 18
+  },
+  {
+    "name": "Require(16) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-security@2.4.0@egg-security/config/config.local.js",
+    "start": 1539845763015,
+    "end": 1539845763015,
+    "duration": 0,
+    "pid": 78358,
+    "index": 19
+  },
+  {
+    "name": "Require(17) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "start": 1539845763016,
+    "end": 1539845763016,
+    "duration": 0,
+    "pid": 78358,
+    "index": 20
+  },
+  {
+    "name": "Require(18) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-view@2.1.0@egg-view/config/config.local.js",
+    "start": 1539845763017,
+    "end": 1539845763017,
+    "duration": 0,
+    "pid": 78358,
+    "index": 21
+  },
+  {
+    "name": "Require(19) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg@2.12.0@egg/config/config.local.js",
+    "start": 1539845763017,
+    "end": 1539845763018,
+    "duration": 1,
+    "pid": 78358,
+    "index": 22
+  },
+  {
+    "name": "Load extend/agent.js",
+    "start": 1539845763024,
+    "end": 1539845763066,
+    "duration": 42,
+    "pid": 78358,
+    "index": 23
+  },
+  {
+    "name": "Require(20) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-security@2.4.0@egg-security/app/extend/agent.js",
+    "start": 1539845763025,
+    "end": 1539845763025,
+    "duration": 0,
+    "pid": 78358,
+    "index": 24
+  },
+  {
+    "name": "Require(21) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-schedule@3.4.0@egg-schedule/app/extend/agent.js",
+    "start": 1539845763026,
+    "end": 1539845763063,
+    "duration": 37,
+    "pid": 78358,
+    "index": 25
+  },
+  {
+    "name": "Require(22) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-logrotator@3.0.3@egg-logrotator/app/extend/agent.js",
+    "start": 1539845763063,
+    "end": 1539845763064,
+    "duration": 1,
+    "pid": 78358,
+    "index": 26
+  },
+  {
+    "name": "Load agent.js",
+    "start": 1539845763066,
+    "end": 1539845763081,
+    "duration": 15,
+    "pid": 78358,
+    "index": 27
+  },
+  {
+    "name": "Require(23) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-security@2.4.0@egg-security/agent.js",
+    "start": 1539845763066,
+    "end": 1539845763069,
+    "duration": 3,
+    "pid": 78358,
+    "index": 28
+  },
+  {
+    "name": "Require(24) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-onerror@2.1.0@egg-onerror/agent.js",
+    "start": 1539845763069,
+    "end": 1539845763069,
+    "duration": 0,
+    "pid": 78358,
+    "index": 29
+  },
+  {
+    "name": "Require(25) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-watcher@3.1.0@egg-watcher/agent.js",
+    "start": 1539845763069,
+    "end": 1539845763072,
+    "duration": 3,
+    "pid": 78358,
+    "index": 30
+  },
+  {
+    "name": "Require(26) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-schedule@3.4.0@egg-schedule/agent.js",
+    "start": 1539845763072,
+    "end": 1539845763073,
+    "duration": 1,
+    "pid": 78358,
+    "index": 31
+  },
+  {
+    "name": "Require(27) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-development@2.4.1@egg-development/agent.js",
+    "start": 1539845763073,
+    "end": 1539845763080,
+    "duration": 7,
+    "pid": 78358,
+    "index": 32
+  },
+  {
+    "name": "Require(28) /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-logrotator@3.0.3@egg-logrotator/agent.js",
+    "start": 1539845763080,
+    "end": 1539845763080,
+    "duration": 0,
+    "pid": 78358,
+    "index": 33
+  },
+  {
+    "name": "Before Start in /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/init.js:15:14",
+    "start": 1539845763086,
+    "end": 1539845763139,
+    "duration": 53,
+    "pid": 78358,
+    "index": 34
+  },
+  {
+    "name": "Before Start in /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-schedule@3.4.0@egg-schedule/agent.js:15:9",
+    "start": 1539845763087,
+    "end": 1539845763128,
+    "duration": 41,
+    "pid": 78358,
+    "index": 35
+  },
+  {
+    "name": "Before Start in /Users/jimi/Documents/s/next/next-egg-react-demo/node_modules/_egg-development@2.4.1@egg-development/agent.js:36:9",
+    "start": 1539845763088,
+    "end": 1539845763161,
+    "duration": 73,
+    "pid": 78358,
+    "index": 36
+  }
+]

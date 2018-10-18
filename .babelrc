@@ -1,6 +1,26 @@
 {
   "presets": [
-    "next/babel"
+    "next/babel",
+    "@babel/preset-env"
   ],
-  "plugins": []
+  "plugins": [
+    "@babel/plugin-proposal-class-properties",
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "style": true
+      }
+    ],
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "@redux": "./redux",
+          "@components": "./components"
+        }
+      }
+    ]
+  ]
 }

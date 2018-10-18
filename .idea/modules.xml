@@ -4,6 +4,7 @@
         <modules>
             <module filepath="$PROJECT_DIR$/.idea/test.iml" fileurl="file://$PROJECT_DIR$/.idea/test.iml"/>
             <module filepath="$PROJECT_DIR$/.idea/test-egg-1.iml" fileurl="file://$PROJECT_DIR$/.idea/test-egg-1.iml"/>
+            <module filepath="$PROJECT_DIR$/.idea/next-egg-react-demo.iml" fileurl="file://$PROJECT_DIR$/.idea/next-egg-react-demo.iml"/>
         </modules>
     </component>
 </project>
